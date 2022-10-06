@@ -14,8 +14,8 @@
 }
 
 body{
-    background: url(images/bg-pattern-bottom-desktop.svg);
-    background: url(images/bg-pattern-top-desktop.svg);
+    background: url(bg-pattern-bottom-desktop.svg);
+    background: url(bg-pattern-top-desktop.svg);
     color: whitesmoke;
 }
 
